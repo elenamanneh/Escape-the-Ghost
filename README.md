@@ -1,7 +1,7 @@
 # Escape the Ghost
 
 ## Overview
-Escape the Ghost is an Assembly language game project developed as part of the CSCB58 Winter 2024 course at the University of Toronto, Scarborough. The game involves a player navigating through platforms, collecting stars, and avoiding ghosts to reach a door and win the game. The game is designed to run on a bitmap display.
+Escape the Ghost is an Assembly language game project that involves a player navigating through platforms, collecting stars, and avoiding ghosts to reach a door and win the game. The game is designed to run on a bitmap display.
 
 ## Game Mechanics
 - **Player Movement:** The player can move left, right, and jump. Gravity affects the player's jumping.
